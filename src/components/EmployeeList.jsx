@@ -2,7 +2,7 @@ import EmployeeListItem from "./EmployeeListItem";
 
 function EmployeeList() {
      return(
-          <div> 
+          <div className="Employee-List"> 
                <EmployeeListItem />
                <EmployeeListItem />
                <EmployeeListItem />

@@ -7,7 +7,7 @@ function App() {
   // let openPortal = true;
 
   return (
-    <div>
+    <div className='app'>
       {/* {openPortal &&  <Payload />} */}
       <Homepage />
       <h1 className='header'>React Page Layout</h1>

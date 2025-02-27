@@ -2,7 +2,7 @@
 
 function Header() {
      return(
-          <div>
+          <div className="header">Employee Directory
                <h2>Employee Directory</h2>
           </div>
      )
