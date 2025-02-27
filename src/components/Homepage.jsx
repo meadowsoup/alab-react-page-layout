@@ -5,8 +5,8 @@ import EmployeeList from "./EmployeeList"
 
 function Homepage() {
      return(
-          <div>
-          <Header />
+          <div className="homepage">
+          <Header title="Employee Directory" />
           <SearchBar />
           <EmployeeList />
           {/* <Learner /> */}

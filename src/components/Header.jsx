@@ -1,9 +1,9 @@
 
 
-function Header() {
+function Header({title}) {
      return(
-          <div className="header">Employee Directory
-               <h2>Employee Directory</h2>
+          <div className="header">{title}
+               {/* <h2>Employee Directory</h2> */}
           </div>
      )
 }

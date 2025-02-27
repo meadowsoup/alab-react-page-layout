@@ -1,7 +1,7 @@
 function SearchBar() {
      return(
           
-          <input type="text" className="search-bar" placeholder="Search Employees..." />
+          <input className="search-bar" type="text" placeholder="Search Employees..." />
 
           // <div>
           //      <h1>SearchBar</h1>
