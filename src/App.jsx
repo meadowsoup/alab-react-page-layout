@@ -1,5 +1,5 @@
 import './App.css'
-import Homepage from './components/homepage'
+import Homepage from './components/Homepage'
 import EmployeePage from "./components/EmployeePage"
 // import Payload from './components/Payload'
 
