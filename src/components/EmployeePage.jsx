@@ -5,7 +5,7 @@ function EmployeePage() {
           <div className="employee-page">
                <Header title="Employee" />
                <div className="employee-details">
-                    <p>Employee details here...</p>
+                    {/* <p>Employee details here...</p> */}
                </div>
           </div>
      );
